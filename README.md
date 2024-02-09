@@ -1,6 +1,6 @@
-#AirBnB clone - Project
+# AirBnB clone - Project
 
-##Description of the project:
+## Description of the project:
 This marks the initial phase of the AirBnB clone project, focusing on the backend development. We integrated it with a console application, leveraging the Python cmd module for streamlined interaction.
 
 ##### Description of the command interpreter:
