@@ -10,4 +10,4 @@ the folowing actions can be performed:
 * Fetch an object from a file, a database, etc.
 * Perform operations on objects (e.g., count, compute statistics, etc.).
 * Modify attributes of an object.
-* Delete an object instance.
+* Delete an object instance
